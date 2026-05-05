@@ -232,5 +232,6 @@ This is **not** a production hash. Use `hashlib.sha256` (~50× faster, written i
 5. Bitcoin developer guide, *Block headers* — practical Merkle root usage.
 
 ## 📝 License
-
+@arxanshxh2309 
+2026-05-06
 MIT — see [LICENSE](LICENSE).
