@@ -211,12 +211,6 @@ Coverage:
 
 ---
 
-## 🌐 Interactive demo
-
-`docs/demo.html` — open in any browser, no server needed. Type a message, watch SHA-256 padding take shape, then step through all 64 rounds and watch `a..h` evolve.
-
----
-
 ## ⚠ Disclaimer
 
 This is **not** a production hash. Use `hashlib.sha256` (~50× faster, written in C, audited). The point of this repo is understanding what's happening *inside* `hashlib.sha256` — and where it can betray you (length extension!) when used naively.
